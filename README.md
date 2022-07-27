@@ -2,7 +2,7 @@
 
 i'm currently working on these iOS apps:
 
-- **Project Benna** - An inbox app. Fast inbox. Easy sorting.
+- **Project Benna** - Fast inbox. Easy sorting.
 - **Project Lighthouse** - TBA
 - **Project Go** - TBA
 
