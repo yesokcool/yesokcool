@@ -17,4 +17,5 @@ while doing other hobbies like:
 - making videos
 - photography
 - digital art
+- running
 - games
