@@ -12,6 +12,7 @@ and endlessly learning about:
 - SwiftUI
 - UIKit
 - Objective-C
+- Xcode
 
 while doing other hobbies like:
 - making videos
