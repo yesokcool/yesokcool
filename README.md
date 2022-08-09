@@ -13,6 +13,7 @@ and endlessly learning about:
 - UIKit
 - Objective-C
 - Xcode
+- C# and .NET!
 
 while doing other hobbies like:
 - making videos
