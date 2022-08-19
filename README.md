@@ -11,7 +11,6 @@ and endlessly learning about:
 - Swift
 - SwiftUI
 - UIKit
-- Objective-C
 - C#
 
 while doing other hobbies like:
