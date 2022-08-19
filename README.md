@@ -12,8 +12,7 @@ and endlessly learning about:
 - SwiftUI
 - UIKit
 - Objective-C
-- Xcode
-- C# and .NET!
+- C#
 
 while doing other hobbies like:
 - making videos
