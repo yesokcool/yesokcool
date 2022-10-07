@@ -11,11 +11,10 @@ and endlessly learning about:
 - Swift
 - SwiftUI
 - UIKit
-- C#
+- iOS
 
-while doing other hobbies like:
+while also:
 - making videos
-- photography
-- digital art
-- running
-- games
+- taking photos
+- making art
+- playing games
