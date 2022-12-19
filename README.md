@@ -3,8 +3,8 @@
 i'm currently working on these iOS apps:
 
 - **Buck It** - Fast inbox. Easy sorting.
-- **Project Lighthouse** - TBA
-- **Project Go** - TBA
+- **Project L** - TBA
+- **Project G** - TBA
 
 and endlessly learning about:
 
