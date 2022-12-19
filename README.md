@@ -14,7 +14,7 @@ and endlessly learning about:
 - iOS
 
 while also:
-- making videos
-- taking photos
 - making art
+- taking photos
+- making videos
 - playing games
